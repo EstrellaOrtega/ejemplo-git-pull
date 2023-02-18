@@ -1,2 +1,2 @@
 # ejemplo-git-pull
-practicas pulls
+repositorio para practicas pulls
